@@ -8,7 +8,7 @@ import "../global.css";
 
 const Home: FunctionComponent = () => {
   return (
-    <div className="w-100% h-100vh bg-repeat bg-scroll bg-left-top bg-contain bg-custom-bg text-white font-freckle-face">
+    <div className="w-100% h-100vh bg-no-repeat bg-scroll bg-left-top bg-contain bg-custom-bg text-white font-freckle-face">
       <div className="stars"></div>
       <div className="flex flex-col md:flex-row justify-evenly items-center p-6 bg-opacity-50">
         <div className="text-21xl ml-10 flex flex-col w-[600px]">

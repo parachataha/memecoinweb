@@ -112,6 +112,13 @@ body {
   }
 }
 
+.bg-custom-bg {
+  width: 100%;
+  height: 100%;
+  background-image: url('public/bg-olympic.jpeg');
+  background-attachment: fixed;
+}
+
 .wave-container {
   position: relative;
   overflow: hidden;
